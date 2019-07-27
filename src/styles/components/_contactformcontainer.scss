@@ -1,0 +1,95 @@
+.contact-form-container{
+  text-align: center;
+  width: 80%;
+  margin-top: 20px;
+}
+
+.asterisc {
+  color: red;
+}
+
+.field-gap{
+  margin: 5px 10px;
+  display: inline-block;
+}
+.field-label{
+  text-align: left;
+  margin: 5px 1px;
+}
+
+.input-text {
+  height: 40px;
+  width: 400px;
+  border: 1px solid #C2C2C2;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.input-text, input[type=text]{
+  font-size: 16px;
+  padding-left: 15px;
+  color: #000000c9;
+}
+
+.address-text {
+  margin-bottom: 10px;
+  margin-top: -15px;
+  border-bottom: 1px solid gainsboro;
+  width: 68px;
+}
+.country-code{
+  height: 40px;
+  width: 75px;
+  border: 1px solid #C2C2C2;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.input-text-phone {
+  width: 325px;
+  margin-left: 10px;
+}
+
+.input-text-area {
+  width: 830px;
+  height: 80px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+
+.submit-btn {
+  width: 200px;
+  height: 50px;
+  background-color: #6eb16e;
+  text-align: center;
+  line-height: 50px;
+  border: 1px solid grey;
+  border-radius: 32px;
+  font-size: 18px;
+}
+
+.submit-btn:focus {
+  outline: none;
+}
+
+.checkbox-field{
+  margin: 15px;
+}
+.checkbox-text {
+  margin-left: 10px;
+}
+.error{
+  color: red;
+  padding: 10px 0;
+  font-size: 18px;
+}
+.success{
+  color: green;
+  padding: 10px 0;
+  font-size: 18px;
+}
+
+.agree-label{
+  margin-left: 10px;
+}

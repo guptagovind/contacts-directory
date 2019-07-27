@@ -1,0 +1,19 @@
+.sidebar-nav{
+  width: 20%;
+  height: 800px;
+  position: sticky;
+  top: 0;
+  height: 800px;
+  color: rgb(253,253,253);
+  box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+.sidebar-item {
+  font-size: 18px;
+  color: rgb(81, 77, 77);
+  text-align: center;
+  padding: 10px 0px;
+  border-bottom: 1px solid gainsboro;
+  cursor: pointer;
+}

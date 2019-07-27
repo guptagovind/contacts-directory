@@ -1,0 +1,9 @@
+node_modules/*
+old/*
+dist/main.css
+dist/index_bundle.js
+dist/spritemap.svg
+.idea
+.DS_Store
+playground
+

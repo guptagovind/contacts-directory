@@ -1,0 +1,35 @@
+table{
+  border: 2px solid #7878de;
+  margin: 32px;
+}
+tr{
+  width: 80%;
+  text-align: center;
+  margin: 10px;
+}
+td,th{
+  border-left: 1px solid green;
+  border-bottom: 1px solid green;
+  width: 210px;
+  word-break: break-word;
+}
+thead{
+  background-color: #dedef1;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: italic;
+  text-align: center;
+  display: block;
+}
+
+table tbody {
+  max-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: block;
+}
+.no-contact{
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
